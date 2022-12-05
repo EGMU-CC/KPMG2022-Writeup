@@ -1,0 +1,6 @@
+Title: Running
+Type: Blockchain
+Difficulty: Easy
+Score: 50
+Description: Read the contract, carefully, andgave it the correct answer. The smart contract is deployed at Sepolia ETH Network address "0x0B2B75089eC02743d4048DbF45d5CEf24E9f4df4". The part of smart contract source code can be download here.
+File: running.sol
